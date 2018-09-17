@@ -1,0 +1,187 @@
+{
+  "/apps/media/efel_data/efel_gui/results/305435/20180917124122/u_res": {
+    "step_0.6": {
+      "soma": {
+        "inv_fifth_ISI": [26.258, 38.5919],
+        "inv_first_ISI": [59.7489, 60.2285],
+        "inv_fourth_ISI": [28.1269, 39.1689],
+        "inv_last_ISI": [14.4378, 16.9106],
+        "inv_second_ISI": [42.4774, 45.9498],
+        "inv_third_ISI": [36.0153, 45.595],
+        "Spikecount": [7.9333, 9.5671],
+        "time_to_first_spike": [33.5667, 78.7662],
+        "time_to_last_spike": [193.5667, 180.0786],
+        "AHP_depth": [16.2244, 3.6699],
+        "AP1_amp": [81.5, 13.4619],
+        "AP1_width": [0.3522, 0.1286],
+        "AP2_amp": [67.25, 15.8074],
+        "AP2_width": [0.4892, 0.1979],
+        "APlast_amp": [47.5556, 12.9496],
+        "voltage_base": [-46.7634, 38.1967],
+        "voltage_deflection": [25.1413, 7.9828]
+      }
+    }, 
+    "step_1.0": {
+      "soma": {
+        "inv_fifth_ISI": [17.5798, 27.9147],
+        "inv_first_ISI": [175.9018, 411.5139],
+        "inv_fourth_ISI": [30.0167, 37.9062],
+        "inv_last_ISI": [20.3686, 29.6263],
+        "inv_second_ISI": [145.7396, 350.9909],
+        "inv_third_ISI": [39.4737, 50.1302],
+        "Spikecount": [6.8, 10.8271],
+        "time_to_first_spike": [4.55, 2.6531],
+        "time_to_last_spike": [123.4467, 171.5529],
+        "AHP_depth": [22.8484, 6.3665],
+        "AP1_amp": [74.8, 10.2108],
+        "AP1_width": [0.3348, 0.1531],
+        "AP2_amp": [50.6, 12.5555],
+        "AP2_width": [0.3872, 0.2628],
+        "APlast_amp": [45.7, 10.4719],
+        "voltage_base": [-47.0849, 38.096],
+        "voltage_deflection": [20.9495, 17.1527]
+      }
+    }, 
+    "step_-1.0": {
+      "soma": {
+        "inv_fifth_ISI": [0.0, 0.001],
+        "inv_first_ISI": [0.0, 0.001],
+        "inv_fourth_ISI": [0.0, 0.001],
+        "inv_last_ISI": [0.0, 0.001],
+        "inv_second_ISI": [0.0, 0.001],
+        "inv_third_ISI": [0.0, 0.001],
+        "Spikecount": [0.0, 0.001],
+        "time_to_last_spike": [0.0, 0.001],
+        "voltage_base": [-45.3269, 37.6114],
+        "voltage_deflection": [-27.6916, 17.0029]
+      }
+    }, 
+    "step_-0.4": {
+      "soma": {
+        "inv_fifth_ISI": [2.0325, 7.605],
+        "inv_first_ISI": [244.4444, 626.1779],
+        "inv_fourth_ISI": [12.2571, 37.6125],
+        "inv_last_ISI": [13.895, 39.0571],
+        "inv_second_ISI": [444.4444, 1286.2041],
+        "inv_third_ISI": [153.5354, 499.2148],
+        "Spikecount": [2.5333, 8.237],
+        "time_to_first_spike": [178.5, 106.6],
+        "time_to_last_spike": [45.6, 117.4492],
+        "AHP_depth": [-20.2847, 1.4363],
+        "AP1_width": [178.0233, 106.4683],
+        "AP2_width": [-0.0083, 0.0417],
+        "voltage_base": [-46.4828, 37.6501],
+        "voltage_deflection": [-18.1763, 5.9285]
+      }
+    }, 
+    "step_0.2": {
+      "soma": {
+        "inv_fifth_ISI": [0.0, 0.001],
+        "inv_first_ISI": [1.857, 6.9483],
+        "inv_fourth_ISI": [0.0, 0.001],
+        "inv_last_ISI": [0.7025, 2.6285],
+        "inv_second_ISI": [0.8261, 3.091],
+        "inv_third_ISI": [0.7025, 2.6285],
+        "Spikecount": [0.2667, 0.9978],
+        "time_to_last_spike": [15.14, 56.6487],
+        "voltage_base": [-46.6441, 38.3227],
+        "voltage_deflection": [12.0068, 4.678]
+      }
+    }, 
+    "step_-0.2": {
+      "soma": {
+        "inv_fifth_ISI": [0.0, 0.001],
+        "inv_first_ISI": [0.0, 0.001],
+        "inv_fourth_ISI": [0.0, 0.001],
+        "inv_last_ISI": [0.0, 0.001],
+        "inv_second_ISI": [0.0, 0.001],
+        "inv_third_ISI": [0.0, 0.001],
+        "Spikecount": [0.0, 0.001],
+        "time_to_last_spike": [0.0, 0.001],
+        "voltage_base": [-46.8624, 37.9622],
+        "voltage_deflection": [-9.7313, 3.4978]
+      }
+    }, 
+    "step_0.8": {
+      "soma": {
+        "inv_fifth_ISI": [47.3663, 53.6596],
+        "inv_first_ISI": [97.9838, 84.1816],
+        "inv_fourth_ISI": [51.8927, 52.8938],
+        "inv_last_ISI": [24.133, 23.3022],
+        "inv_second_ISI": [69.8052, 58.4762],
+        "inv_third_ISI": [59.6509, 55.7542],
+        "Spikecount": [11.8, 11.1367],
+        "time_to_first_spike": [10.25, 12.4158],
+        "time_to_last_spike": [208.4467, 164.9907],
+        "AHP_depth": [19.8593, 4.3948],
+        "AP1_amp": [80.2, 13.0694],
+        "AP1_width": [0.3516, 0.0974],
+        "AP2_amp": [59.35, 12.2516],
+        "AP2_width": [0.3936, 0.1906],
+        "APlast_amp": [42.4, 12.7961],
+        "voltage_base": [-47.0366, 38.5825],
+        "voltage_deflection": [30.306, 12.2654]
+      }
+    }, 
+    "step_0.4": {
+      "soma": {
+        "inv_fifth_ISI": [8.0367, 16.6343],
+        "inv_first_ISI": [28.4455, 30.332],
+        "inv_fourth_ISI": [8.6807, 17.2231],
+        "inv_last_ISI": [10.5043, 15.2346],
+        "inv_second_ISI": [15.488, 21.551],
+        "inv_third_ISI": [11.57, 18.3211],
+        "Spikecount": [3.9333, 5.2848],
+        "time_to_first_spike": [10.975, 4.1027],
+        "time_to_last_spike": [145.7133, 164.3203],
+        "AHP_depth": [12.0673, 3.4298],
+        "AP1_amp": [78.125, 5.8617],
+        "AP1_width": [0.3349, 0.1329],
+        "AP2_amp": [65.75, 12.2933],
+        "AP2_width": [0.5409, 0.2785],
+        "APlast_amp": [57.5, 12.6442],
+        "voltage_base": [-46.7656, 38.5422],
+        "voltage_deflection": [19.6069, 5.6203]
+      }
+    }, 
+    "step_0.0": {
+      "soma": {
+        "inv_fifth_ISI": [0.0, 0.001],
+        "inv_first_ISI": [0.0, 0.001],
+        "inv_fourth_ISI": [0.0, 0.001],
+        "inv_last_ISI": [0.0, 0.001],
+        "inv_second_ISI": [0.0, 0.001],
+        "inv_third_ISI": [0.0, 0.001],
+        "Spikecount": [0.0, 0.001],
+        "time_to_last_spike": [0.0, 0.001],
+        "voltage_base": [-44.5415, 38.7014],
+        "voltage_deflection": [-0.3088, 1.0011]
+      }
+    }, 
+    "step_-0.8": {
+      "soma": {
+        "inv_fifth_ISI": [0.0, 0.001],
+        "inv_first_ISI": [0.0, 0.001],
+        "inv_fourth_ISI": [0.0, 0.001],
+        "inv_last_ISI": [0.0, 0.001],
+        "inv_second_ISI": [0.0, 0.001],
+        "inv_third_ISI": [0.0, 0.001],
+        "Spikecount": [0.0, 0.001],
+        "time_to_last_spike": [0.0, 0.001],
+        "voltage_base": [-46.2699, 37.6263],
+        "voltage_deflection": [-32.1866, 9.6249]
+      }
+    }, 
+    "step_-0.6": {
+      "soma": {
+        "inv_first_ISI": [31.746, 118.7828],
+        "inv_fourth_ISI": [95.2381, 356.3483],
+        "inv_second_ISI": [111.1111, 415.7397],
+        "Spikecount": [1.6, 5.9867],
+        "time_to_last_spike": [16.94, 63.3837],
+        "voltage_base": [-45.8688, 37.2801],
+        "voltage_deflection": [-24.9178, 7.7481]
+      }
+    }
+  }
+}
